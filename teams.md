@@ -1,6 +1,6 @@
 # Teams
 
-Please add your team name, particpants and submission repo
+Please add your team name, particpants (Max size 4) and submission repo
 
 Example entry:
 
