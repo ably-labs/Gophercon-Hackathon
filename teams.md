@@ -33,3 +33,14 @@ Blockchain listener and indexer according to different data protocols. The proje
 More details can be found on our project repo created for the hackathon [here](https://github.com/nch-bowstave/nchain-ably).
 
 ---
+
+Team: Ably Text [Yoti](https://www.yoti.com])
+
+People:
+1. [Alttaf Hussain](https://github.com/alttaf)
+2. [Ed Harrod](https://github.com/echarrod)
+
+Project:
+[Ably Text](https://github.com/Alttaf/ably-hack)
+
+---
