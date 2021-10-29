@@ -34,7 +34,7 @@ More details can be found on our project repo created for the hackathon [here](h
 
 ---
 
-Team: Ably Text [Yoti](https://www.yoti.com])
+Team: Ably Text (<https://yoti.com>)
 
 People:
 1. [Alttaf Hussain](https://github.com/alttaf)
